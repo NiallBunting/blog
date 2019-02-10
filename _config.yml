@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Niall Bunting
+description: Niall Bunting's Personal Website.
+meta_description: "Niall Bunting's Personal Website. Which contains various information about him."
 
 markdown: kramdown
 highlighter: rouge
