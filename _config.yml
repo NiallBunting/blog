@@ -1,13 +1,13 @@
 name: Niall Bunting
-description: Niall Bunting's Personal Website.
+description: Niall Bunting's Personal Website
 meta_description: "Niall Bunting's Personal Website. Which contains various information about him."
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /
-domain_name: 'http://www.niallbunting.com/blog/'
+baseurl: /blog/
+domain_name: 'http://www.niallbunting.com'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
